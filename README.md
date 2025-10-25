@@ -21,7 +21,7 @@ Tailwind CSS - Utility-first CSS framework
 text
 
 Step 1: Clone the repository
-git clone https://github.com/uday17anu-cell/click-cinema.git
+https://github.com/tarun26devop-hue/netflixclone.git
 
 Step 2: Navigate to the project directory
 cd click-cinema
