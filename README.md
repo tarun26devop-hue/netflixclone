@@ -1,6 +1,6 @@
 Netflix clone🎬 A modern movie streaming web application built by Tarun.
 
-🚀 Project Info Live URL: https://lovable.dev/projects/c165c029-e089-4768-b80c-5944bd1cb680
+🚀 Project Info Live URL: https://tarunsclone.lovable.app/
 
 💻 Developer Created and developed by Tarun - B.Tech Computer Science Student at Scient Institute
 
